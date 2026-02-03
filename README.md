@@ -33,5 +33,5 @@ Based on the simulation parameters:
 The system successfully identifies targets even in low SNR conditions. For example, in Scenario 1 (Normal Case), the radar detects objects at 100m and 220m with high accuracy.
 
 ## 👥 Authors
-* Muhammad Sameer Abdelhamid
 * Mohaned Waleed Hosny
+* Muhammad Sameer Abdelhamid
